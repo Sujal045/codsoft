@@ -1,0 +1,37 @@
+{
+    "projects": [
+      {
+        "title": "MERN BLOG",
+        "description": "Complete full stack Blogging application in which user can login and create blogs. User can also edit the blog.",
+        "url": "https://github.com/Sujal045/mern-blog",
+        "imgSrc": "https://city-dog.cz/wp-content/uploads/2023/01/blogging.png"
+      },
+      {
+        "title": "TECH STAR",
+        "description": "Simple one page website.",
+        "url": "https://techstar-khaki.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+  
+      {
+        
+        "title": "VIDEO HUB",
+        "description": "Built video streaming platform using React and Chakra UI.",
+        "url": "https://react-video-app-dun.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      },
+      {
+        
+        "title": "Crypto Hub",
+        "description": "Crypto app which gives information about past performance and price of coins. Real time price chart using COINGECKO API and CHART JS.",
+        "url": "https://react-crypto-hub.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+      {
+        "title": "PORTFOLIO",
+        "description": "Built using React and Firebase.",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+    ]
+  }
